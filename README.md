@@ -15,4 +15,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralkaider&theme=radical&show_icons=true)](https://github.com/ralkaider/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralkaider&theme=radical&exclude_repo=ralkaider.github.io&hide=html,css&layout=compact)](https://github.com/ralkaider/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralkaider&theme=radical&hide=html,css&layout=compact)](https://github.com/ralkaider/github-readme-stats)
